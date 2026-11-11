@@ -1,4 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou Guilherme 👋
+
+### Desenvolvedor em formação | IA & Software
+
+🇧🇷 Brasil — São Paulo | 13 anos
+
+Tenho interesse em tecnologia, inteligência artificial e desenvolvimento de software. Gosto de transformar ideias em projetos reais, experimentar ferramentas e aprender construindo.
+
+### 🚀 Projetos
+
+- **AnunciaAI** — Plataforma de criação e avaliação inteligente de anúncios.
+- **SentimentScope** — Projeto de análise de sentimentos utilizando inteligência artificial. *(Em desenvolvimento)*
+
+### 🛠️ Tecnologias e ferramentas
+
+- Python
+- Inteligência Artificial
+- Git e GitHub
+- Google AI Studio
+- Streamlit
+- React e TypeScript
+
+### 🎯 Objetivo
+
+Continuar desenvolvendo projetos, aprimorando minhas habilidades em programação e explorando novas possibilidades com inteligência artificial.
+
+---
+
+*Aprendendo, construindo e evoluindo um projeto de cada vez.*
 
 <!--
 **guilhermedev28/guilhermedev28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
