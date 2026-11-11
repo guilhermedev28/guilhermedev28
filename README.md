@@ -1,51 +1,34 @@
 # Olá! Eu sou Guilherme 👋
 
-### Desenvolvedor em formação | IA & Software
+**Desenvolvedor em formação | Inteligência Artificial e Software**
 
-🇧🇷 Brasil — São Paulo | 13 anos
+🇧🇷 São Paulo, Brasil
 
-Tenho interesse em tecnologia, inteligência artificial e desenvolvimento de software. Gosto de transformar ideias em projetos reais, experimentar ferramentas e aprender construindo.
+Tenho interesse em tecnologia, inteligência artificial e desenvolvimento de software. Gosto de transformar ideias em projetos reais, aprender na prática e melhorar cada versão com testes e experimentação.
 
-### 🚀 Projetos
+## 🚀 Projetos em destaque
 
-- - **AnunciaAI** — Plataforma de criação e avaliação inteligente de anúncios. [Acessar aplicação](https://anunciaai.ai.studio)
-- **SentimentScope** — Projeto de análise de sentimentos utilizando inteligência artificial. *(Em desenvolvimento)*
+### [AnunciaAI](https://github.com/guilhermedev28/-AnunciaAI/tree/anunciaai-source)
+Plataforma com inteligência artificial para criação, análise e otimização de anúncios.
 
-### 🛠️ Tecnologias e ferramentas
+- [Experimentar a aplicação](https://ai.studio/apps/08d5c377-c0f7-4580-8e81-6835ab84bb7e)
+- [Ver código-fonte](https://github.com/guilhermedev28/-AnunciaAI/tree/anunciaai-source)
 
-- Python
-- Inteligência Artificial
-- Git e GitHub
-- Google AI Studio
-- Streamlit
-- React e TypeScript
+### SentimentScope
+Projeto de análise de sentimentos com inteligência artificial. **Em desenvolvimento.**
 
-### 🎯 Objetivo
+## 🛠️ Tecnologias e ferramentas
 
-Continuar desenvolvendo projetos, aprimorando minhas habilidades em programação e explorando novas possibilidades com inteligência artificial.
+- **Desenvolvimento:** Python, JavaScript, TypeScript, React
+- **Inteligência artificial:** Google AI Studio, Google GenAI
+- **Ferramentas:** Git, GitHub, Streamlit
+
+## 🎯 No que estou focado
+
+- Desenvolver projetos próprios e resolver problemas reais.
+- Aprender mais sobre programação e inteligência artificial.
+- Melhorar a qualidade, a experiência e a confiabilidade dos meus projetos.
 
 ---
 
 *Aprendendo, construindo e evoluindo um projeto de cada vez.*
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=guilhermedev28&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermedev28&layout=compact&theme=tokyonight&hide_border=true)
-
-
-**guilhermedev28/guilhermedev28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
