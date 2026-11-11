@@ -31,10 +31,11 @@ Continuar desenvolvendo projetos, aprimorando minhas habilidades em programaçã
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedev28&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=guilhermedev28&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedev28&layout=compact&theme=tokyonight&hide_border=true)
-<!--
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermedev28&layout=compact&theme=tokyonight&hide_border=true)
+
+
 **guilhermedev28/guilhermedev28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
