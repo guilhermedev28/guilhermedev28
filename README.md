@@ -8,7 +8,7 @@ Tenho interesse em tecnologia, inteligência artificial e desenvolvimento de sof
 
 ### 🚀 Projetos
 
-- **AnunciaAI** — Plataforma de criação e avaliação inteligente de anúncios.
+- - **AnunciaAI** — Plataforma de criação e avaliação inteligente de anúncios. [Acessar aplicação](https://anunciaai.ai.studio)
 - **SentimentScope** — Projeto de análise de sentimentos utilizando inteligência artificial. *(Em desenvolvimento)*
 
 ### 🛠️ Tecnologias e ferramentas
