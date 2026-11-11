@@ -45,7 +45,7 @@ Acredito que aplicativos de estudo podem ir além de responder perguntas. Eles p
 ## 🛠️ Tecnologias e ferramentas
 
 - **Desenvolvimento:** Python, JavaScript, TypeScript, React
-- **Inteligência artificial:** Google AI Studio, Google GenAI
+- **Inteligência artificial:** Google AI Studio, Google GenAI, Claude, ChatGPT
 - **Ferramentas:** Git, GitHub, Streamlit
 
 ## 🎯 No que estou focado
