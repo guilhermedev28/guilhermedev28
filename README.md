@@ -1,5 +1,5 @@
-# Olá! Eu sou Guilherme 
-
+# Olá! Eu sou Guilherme      
+Apenas 13 anos 
 **Desenvolvedor em formação | Inteligência Artificial e Software**
 
 🇧🇷 São Paulo, Brasil
